@@ -52,3 +52,4 @@ git push -- all
 git reset --hard
 git pull
 ```
+> 注意：在git管理区域的文件内容，如果要删除文件，尽量要用 `git rm -file` 指令
