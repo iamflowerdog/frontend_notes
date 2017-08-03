@@ -10,4 +10,6 @@
 
 [屠龙宝刀，点击就送！](http://www.weibo.com/xiaobenben123)
 
+### 遵循 MIT 开源协议
+
 
